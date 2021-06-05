@@ -7,7 +7,7 @@ package studobjectarray;
 import java.util.Scanner;
 /**
  *
- * @author nick
+ * @author Nick Carvalho, June 2, 2021
  */
 public class StudObjectArray {
 
