@@ -7,7 +7,7 @@ package studobjectarray;
 
 /**
  *
- * @author nick
+ * @author Nick Carvalho, June 5, 2021
  */
 public class PartTimeStudent extends Student {
     
